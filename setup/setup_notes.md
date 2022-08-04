@@ -66,7 +66,7 @@ cp -p "$(./scripts/bin-path.sh cardano-cli)" ~/.local/bin
 cardano-cli --version
 cardano-node --version
 ```
-> Versions should be equal to the version/tag (e.g. 1.34.1) that was built previously.  
+> Versions should be equal to the version/tag (e.g. 1.35.2) that was built previously.  
 ## Run node on testnet
 > Append these exports at the end of your `~/.bashrc` file.  
 ```bash
